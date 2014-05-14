@@ -1,0 +1,23 @@
+{
+  "name": "url-stream",
+  "version": "0.0.1",
+  "description": "Takes a stream of http(s) URLs as input and emits their body content as output",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "event-stream": "~3.1.5",
+    "request": "~2.34.0",
+    "stream-combiner": "~0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "stream",
+    "url",
+    "http",
+    "https"
+  ]
+}
