@@ -1,7 +1,7 @@
 {
   "name": "url-stream",
   "version": "0.0.1",
-  "description": "Takes a stream of http(s) URLs as input and emits their body content as output",
+  "description": "Transforms a stream of URLs into a stream of their body content",
   "author": "thibauts",
   "license": "MIT",
   "main": "index.js",
