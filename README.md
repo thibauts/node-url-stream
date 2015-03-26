@@ -26,9 +26,3 @@ transform.on('error', function(err) {
 
 process.stdin.pipe(transform).pipe(process.stdout);
 ``` 
-
-# level 1
-## level 2
-### level 3
-#### level 4
-
